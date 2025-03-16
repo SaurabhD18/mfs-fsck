@@ -1,0 +1,8 @@
+3/usr/bin/makepp
+VERSION2.0.98.55.30.0x86_64-linux-gnu-thread-multi
+DEBUG0
+LOAD_DEFAULT5592a106cd00ext2_mkfs5592a106cb08/home/vboxuser/mkfs_fsckext2.git
+LOAD_INCL5592a12cfaf0makepp_builtin_rules.mk5592a0d68f98/usr/share/makepp5592a0d6d9c0makepp_default_makefile.mk5592a0d68f98
+LOAD_END5592a0d6d9c0
+*** error: no targets specified and no default target in makefile `/usr/share/makepp/makepp_default_makefile.mk'
+N_FILES000
